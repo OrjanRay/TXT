@@ -1,0 +1,9 @@
+ Skills to learn:
+ 1,GitHub
+ 2.Bash Console
+ 3.Postman
+ 4.Charles
+ 5.jMeter
+ 6.Android Studio
+ 7.Fiddler
+ 8.MySQL

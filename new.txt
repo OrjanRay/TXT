@@ -1,0 +1,4 @@
+Full name: Hoiuk Bohdan
+Age: 29
+Pets number: 2
+Expected salary: 3000 dollars

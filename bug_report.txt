@@ -1,0 +1,11 @@
+Bug ID: 123a
+   Title: Contact form - No confirmation message is shown
+   Summary: The page where the contact form is on does not show any confirmation message after submitting a contact request
+   STR: 
+   1 open the contact page 
+   2 click on the contact form
+   3 fill in contact request 
+   4 submit a contact request
+   Expected result: Confirmation window is shown after submitting a contact request
+   Actual result: No confirmation window is shown
+   Screenshot: attached
